@@ -129,14 +129,17 @@ print(len(newList))
 
 
 #.remove(), .append(), sort(), .len() are list functions
-
-
+num_words = ["sdwfkjfdh", "12343", "dwsi", "oieru", "49385;"]
+print(num_words)
 # In[3]:
-
 
 #also we can define N dimensional list not just 1 dimensional
 #1 dimensional means only one item per comma
-
+avengers=["Hawkeye" , "Hulk" , "Iron Man" , "Shang Chi" , "Captin America"]
+#This is a 1D array
+multiDem = [[3,5], [7,6], [6,3], [8,9]]
+print(multiDem[2][1])
+#multidementinal arrays are more then just a single list of items 
 
 # In[ ]:
 
