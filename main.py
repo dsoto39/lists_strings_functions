@@ -156,6 +156,12 @@ print(multiDem[2][1])
 
 
 # # List functions
+avengers=["Hawkeye" , "Hulk" , "Iron Man" , "Shang Chi" , "Captin America"]
+guardiansOfGalaxy =  ["Drax" , "Rocket" , "Groot" , "Starlord"]
+#join the lists
+print(avengers+guardiansOfGalaxy)
+#add two more characters into the new list  
+#reverse the list 
 
 # In[ ]:
 
