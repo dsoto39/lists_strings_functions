@@ -160,52 +160,6 @@ print(multiDem[2][1])
 # In[ ]:
 
 
-#how do we recognize a function????
-
-#.remove()
-
-
-# In[ ]:
-
-
-#.append()
-
-
-# In[ ]:
-
-
-#.pop()
-
-
-# In[ ]:
-
-
-#.sort()
-#.reverse()
-
-
-# In[2]:
-
-
-#.insert(index, value)
-
-
-# In[ ]:
-
-
-#.index(value)
-
-
-# In[ ]:
-
-
-#.extend()
-
-
-# In[ ]:
-
-
-#.copy()
 
 
 # #Tuples
